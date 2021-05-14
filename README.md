@@ -36,7 +36,7 @@ Exemplo:
 - Observações: nenhuma.
 ```
 
-:e-mail: Para vagas que possuam e-mail para enviar currículo para se candidatar:
+:mag: Para vagas que possuam e-mail para enviar currículo para se candidatar:
 ```
 Nome da vaga
 - Empresa: nome da empresa que está contratando
@@ -57,5 +57,5 @@ Pessoa desenvolvedora back-end java
 - Observações: nenhuma.
 ```
 
-### Mande a vaga para nosso repositório por PR.
+### :gem: Mande a vaga para nosso repositório por PR.
 Envie o PR no arquivo que corresponde ao nível da vaga. Caso tenha alguma dificuldade, procure uma das moderadoras do evento.
