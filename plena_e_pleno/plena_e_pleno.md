@@ -1,0 +1,1 @@
+# Vagas de níveis plena e pleno
